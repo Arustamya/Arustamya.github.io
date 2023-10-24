@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+button{
+    width: 75px;
+    height: 30px;
+    color: white;
+    background-color: red;
+}
+button:hover{
+    color: black;
+    background-color: blue;
+}
